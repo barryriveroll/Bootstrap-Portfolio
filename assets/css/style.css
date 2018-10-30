@@ -33,3 +33,7 @@ html {
 body {
     margin-bottom: 60px;
 }
+
+.mx-sm-0 {
+    max-width: 100%;
+}
